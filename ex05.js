@@ -1,4 +1,5 @@
 module.exports = function decapitalize(str = '') {
+    
     return (str.indexOf(' ') !== -1) ? someWordsDecapitalize() : str.charAt(0).toLowerCase() + str.slice(1);
     
     function someWordsDecapitalize() {

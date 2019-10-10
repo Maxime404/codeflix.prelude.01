@@ -1,6 +1,6 @@
 //////////
 //git init
-//git add \file
+//git add \file || git add -A . (add * files)
 //git status
 //write code//
 //git commit -m "\commit message"
